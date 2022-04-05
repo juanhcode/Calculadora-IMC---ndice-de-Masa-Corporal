@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&display=swap');
+*{
+    font-family:Nunito;
+    margin: 0px;
+    padding: 0px;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type=number] { -moz-appearance:textfield; }
+header{
+    text-align: center;
+    background-color: #67b639;
+    padding:10px;
+    color: white;
+    display:flex;
+    justify-content: space-between;
+}
+.titulo{
+    text-align:left;
+    flex-grow: 8;
+}
+.regresar{
+    flex-grow: 3;
+}
+
+.regresar a{
+    text-decoration:none;
+    color: white;
+    font-size: 24px;
+}
+
+.container{
+    margin: auto;
+    margin-top: 2%;
+    width:50%;
+    height:460px;
+    background-color:#fcfcfc;
+    text-align: center;
+    border: 2px solid black;
+}
+.info{
+    color: #dbdbdb;
+    font-size:20px;
+    margin: 2%;
+}
+
+.btn-enviar{
+    background-color: #67b639;
+    color: white;
+    padding:10px;
+    font-size: 20px;
+}
+input{
+    padding:15px
+}
+label{
+    font-size: 23px;
+}
+span{
+    color: #67b639;
+    font-weight: 100;
+    font-size: 25px;
+}
+
+#edad{
+    margin-left: 10px;
+}
+#peso{
+    margin-left: 5px;
+}
+
+.opcion-label{
+    padding-right:20px;
+    padding-left:2px;
+}
+
+.textoResultado{
+    margin-top: 20px;
+    font-size: 30px
+}
+
+.resultados{
+    margin: auto;
+    width:40%;
+}
+
+.especificaciones{
+    margin: auto;
+    padding: 20px;
+    text-align:left;
+    width:300px;
+    background-color:rgb(245, 245, 245);
+    border-radius:30px;
+    height:130px;
+}
+.info-peso{
+    padding: 20px;
+    color: black;
+    font-size:20px;
+}
+
+.resultadoObtenido{
+    color: #67b639;
+    text-align: center;
+    font-size:30px;
+}
+
+.resultado-numero{
+    font-size:38px;
+}

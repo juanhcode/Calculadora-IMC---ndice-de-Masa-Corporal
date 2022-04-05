@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+    <header>
+        <div class="titulo">
+            <h1>Calculadora IMC</h1>
+        </div>
+        <div class="regresar">
+            <a href="/pages/estadisticas.html">Estadisticas</a>
+        </div>
+    </header>
+    <div class="container">
+        <p class="info">Descubre su indice de masa corporal</p>
+        <form action="">
+            <div class="sexo">
+                <label for="">Sexo:    </label>
+                <input type="checkbox" id="chk1" class="opcion" value="Masculino"/><img src="assets/hombre-de-pie (1).png" alt="">
+                <input type="checkbox" id="chk2"  class="opcion" value="Femenino"/><img src="assets/mujer (1).png" alt="">
+            </div>
+            <br>
+            <div class="calcularEdad">
+                <label for="">Edad: </label>
+                <input type="number" name="" id="edad">
+            </div>
+            <br>
+            <div class="calcularPeso">
+                <label for="">Peso: </label>
+                <input type="number" name="" id="peso" step="any"><span> KG</span>
+            </div>
+            <br>
+            <div class="calularAltura">
+                <label for="">Altura</label>
+                <input type="number" name="" id="altura" step="any"><span> M</span>
+            </div>
+            <br>
+            <br>
+            <div class="enviar">
+                <input type="submit" value="CALCULAR IMC" class="btn-enviar">
+            </div>
+        </form>
+        <div class="resultado">
+            <div class="resultados">                   
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+[
+    {
+        "id": "1",
+        "sexo":"Masculino",
+        "edad":21,
+        "IMC":27.5
+    },
+    {
+        "id": "2",
+        "sexo":"Femenino",
+        "edad":35,
+        "IMC":38.5
+    },
+    {
+        "id": "3",
+        "sexo":"Masculino",
+        "edad":60,
+        "IMC":19.6
+    },
+    {
+        "id": "4",
+        "sexo":"Femenino",
+        "edad":32,
+        "IMC":28.5
+    },
+    {
+        "id": "5",
+        "sexo":"Masculino",
+        "edad":19,
+        "IMC":23
+    },
+    {
+        "id": "6",
+        "sexo":"Femenino",
+        "edad":15,
+        "IMC":20
+    },
+    {
+        "id": "7",
+        "sexo":"Masculino",
+        "edad":45,
+        "IMC":29.5
+    },{
+        "id": "8",
+        "sexo":"Femenino",
+        "edad":20,
+        "IMC":24
+    },{
+        "id": "9",
+        "sexo":"Masculino",
+        "edad":18,
+        "IMC":21
+    },{
+        "id": "10",
+        "sexo":"Femenino",
+        "edad":16,
+        "IMC":19
+    },{
+        "id": "11",
+        "sexo":"Femenino",
+        "edad":25,
+        "IMC":29
+    },
+    {
+        "id": "12",
+        "sexo":"Masculino",
+        "edad":38,
+        "IMC":34
+    },
+    {
+        "id": "13",
+        "sexo":"Femenino",
+        "edad":23,
+        "IMC":19
+    },
+    {
+        "id": "14",
+        "sexo":"Masculino",
+        "edad":23,
+        "IMC":30
+    },
+    {
+        "id": "15",
+        "sexo":"Femenino",
+        "edad":12,
+        "IMC":21
+    }
+
+]
