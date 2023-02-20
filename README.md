@@ -10,7 +10,7 @@
 
 ![Calculadora](https://user-images.githubusercontent.com/64670953/220207423-98363a68-673c-4c1d-a37c-6e0b2864d2d4.png)
 
-<h3 align="center"></h3>>
+<h3 align="center"></h3>
 
 ## Description
 
